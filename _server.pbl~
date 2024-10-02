@@ -1,0 +1,14 @@
+author="ForestDragon"
+title="Spartan Music Part 2"
+icon="attacks/spear.png"
+version="1.0.0"
+description="Second Music pack used by the 'Spartan' add-on.
+passphrase="Use the Source, Luke!"
+
+type="media"
+dependencies=
+email="kolya.vlasenko@gmail.com"
+# The following tag is only used by Wesnoth 1.11.8 and later!
+#[feedback]
+#    topic_id=40155
+#[/feedback]
